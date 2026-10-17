@@ -37,3 +37,4 @@ Check out the live website: **[https://atech31.github.io/portfolio/](https://ate
 ├── script.js        # Interactive scripts & dynamic behavior
 ├── workspace.png     # Workspace preview image asset
 └── README.md         # Repository documentation
+This project is open source and available under the [MIT License](LICENSE).
